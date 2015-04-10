@@ -1,0 +1,89 @@
+
+@import url(//fonts.googleapis.com/css?family=Oswald)
+h1 {color: blue;}
+body {
+    background-image: url("http://global-conferences.eu/wp-content/uploads/2014/09/2_1.jpg");
+}
+h1 {
+    font-size: 40px;
+}
+p {
+    font-family: "Oswald";
+}
+
+h1{
+    font-family: "Courier New", Courier, Monospace;
+}
+
+h1 {
+    font-size: 250%;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+
+p {
+    font-size: 120%;
+}
+
+
+li {
+	font-size: 120%;
+}
+
+li {
+	color: blue;
+}
+
+
+h2 {
+    font-family: "Courier New Lucida Console", Courier, Monospace;
+}
+
+body {
+	height:100px;
+}
+
+
+footer {
+	width:100%;
+	height:60px;
+	position:absolute;
+	bottom:0;
+	left:0;
+	font-size: 200;
+	color: black;
+}
+
+
+html,
+body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+wrapper {
+	min-height:100%;
+	position:relative;
+}
+header {
+	padding:10px;
+	background:#5ee;
+}
+
+content {
+	padding:10px;
+	padding-bottom:80px;  
+	} /* Height of the footer element */
+
+footer {
+	width:100%;
+	height:80px;
+	position:absolute;
+	bottom:0;
+    font-size: 150%;
+	font-family: "Indie Flower";
+
+}
