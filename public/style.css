@@ -1,8 +1,8 @@
 
 @import url(//fonts.googleapis.com/css?family=Oswald)
-h1 {color: blue;}
+h1 {color: red;}
 body {
-    background-image: url("http://global-conferences.eu/wp-content/uploads/2014/09/2_1.jpg");
+    background-image: url("http://www.newyorkresidenceinn.com/wp-content/uploads/2014/03/Primary-Background.jpg");
 }
 h1 {
     font-size: 40px;
@@ -39,7 +39,7 @@ li {
 
 
 h2 {
-    font-family: "Courier New Lucida Console", Courier, Monospace;
+    font-family: "Indie Flower", Courier, Monospace;
 }
 
 body {
@@ -85,5 +85,4 @@ footer {
 	bottom:0;
     font-size: 150%;
 	font-family: "Indie Flower";
-
 }
